@@ -40,7 +40,8 @@ body {
   margin-top: 10px; 
   display: none;  
   color: red;
-  animation: blink 0.2s linear infinite; 
+  animation: blink 0.2s linear infinite;
+  margin-top: 100px;
 }
 
 
@@ -50,6 +51,7 @@ body {
   display: none;  
   color: white;
   animation: none;
+  margin-top: 100px
 }
 
 #endingText.show,
@@ -96,9 +98,9 @@ body {
 
 @media (max-width: 768px) { /* Для мобильных устройств */
   #luckyJetIcon {
-    width: 700px;
+    width: 200px;
     height: 700px;
-    margin-top: -500px;
+    margin-top: -300px;
   }
 
   #endingText {
