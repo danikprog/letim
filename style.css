@@ -98,7 +98,7 @@ body {
 
 @media (max-width: 768px) { /* Для мобильных устройств */
   #luckyJetIcon {
-    width: 200px;
+    width: 700px;
     height: 700px;
     margin-top: -300px;
   }
