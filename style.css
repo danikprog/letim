@@ -41,8 +41,8 @@ body {
   display: none;  
   color: red;
   animation: blink 0.2s linear infinite;
-  margin-top: 300px;
-  margin-right: 50px;
+  margin-top: 400px;
+  margin-right: 100px;
 }
 
 
@@ -52,8 +52,8 @@ body {
   display: none;  
   color: white;
   animation: none;
-  margin-top: 300px;
-  margin-right: 50px;
+  margin-top: 400px;
+  margin-right: 100px;
 }
 
 #endingText.show,
@@ -109,7 +109,10 @@ body {
     margin-top: -10px;
   }
   
-  #waitingText,
+  #waitingText{
+    margin-top: -10px;
+  }
+  
   #pluggText {
     font-size: 7vw; 
   }
