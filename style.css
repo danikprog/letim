@@ -101,9 +101,9 @@ body {
     margin-top: -500px;
   }
 
-  #endingText,{
-  margin-top: 10px;  
-}
+  #endingText {
+    margin-top: 10px;
+  }
   
   #waitingText,
   #pluggText {
