@@ -30,8 +30,8 @@ body {
 #luckyJetIcon.flying,
 #luckyJetIcon.ending {
   border-radius: 3px; 
-  height: 500px;
-  width: 500px;
+  height: 600px;
+  width: 600px;
 }
 
 #endingText {
@@ -80,7 +80,7 @@ body {
 @font-face {
   font-family: 'Intro';
   src: url('./images/intro.otf'); 
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -95,8 +95,8 @@ body {
 
 @media (max-width: 768px) { /* Для мобильных устройств */
   #luckyJetIcon {
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
   }
 
   #endingText,
