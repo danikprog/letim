@@ -101,7 +101,10 @@ body {
     margin-top: 200px;
   }
 
-  #endingText,
+  #endingText,{
+  margin-top: 10px;  
+}
+  
   #waitingText,
   #pluggText {
     font-size: 7vw; 
